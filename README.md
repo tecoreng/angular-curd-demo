@@ -1,5 +1,5 @@
 # Angular - This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version
-
+Using third-party open API get data set and display in bootstrap tables. Also add, update, view, and delete CURL operations performed
 # Development server
 
 #### 1. Start project
